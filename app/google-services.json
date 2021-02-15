@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "327887063596",
+    "project_id": "bus-ticket-booking-b5e51",
+    "storage_bucket": "bus-ticket-booking-b5e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327887063596:android:9da864cca0165f45119f89",
+        "android_client_info": {
+          "package_name": "com.example.redbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327887063596-mvr15fdolgl74lgkvgljn8td065jchk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redbus",
+            "certificate_hash": "f67b443c57898ae35a9e9c90de22b1950bf09695"
+          }
+        },
+        {
+          "client_id": "327887063596-q63ht3g38gshp2od2rf0iatfmipbpgo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArJz9P9_BC8OrajV4Ou8Xv5XvelJBLRoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327887063596-q63ht3g38gshp2od2rf0iatfmipbpgo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
